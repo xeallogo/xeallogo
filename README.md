@@ -1,5 +1,4 @@
-
-
+![Banner_AG](https://user-images.githubusercontent.com/81936956/159326305-b9b653ed-2bf2-4a2d-83bf-78e01f49a9e0.png)
 # I'm Alex, a developer. 
 
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
