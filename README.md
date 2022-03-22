@@ -1,7 +1,11 @@
 ![Banner_AG](https://user-images.githubusercontent.com/81936956/159326305-b9b653ed-2bf2-4a2d-83bf-78e01f49a9e0.png)
 # I'm Alex, a developer. 
 
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+<a href="https://www.linkedin.com/in/alex-gool/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+Glad to see you here! 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
 
 ## About me
@@ -20,39 +24,34 @@ const Alex = {
 };
 ```
 
-
 ## Tech Stack
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=brown)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&color=indigo)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&color=61DAFB)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=orange)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=black&color=61DAFB)
+![](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=red&color=5FADD1)
+![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=black&color=66D15F)
+![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&color=orange)
 
+![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=7952B3)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=22B4E7)
 
+![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&color=lightgreen)
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&color=lightblue)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=grey&color=beige)
 
-
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=lightgreen)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=lightblue)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=darkblue)
-
-
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=nodejs&color=CB3837)
-![](https://img.shields.io/badge/Tools-Mongoose-informational?style=flat&logo=mongoose&color=green)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node&color=CB3837)
+![](https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=mongoose&color=92630B)
+![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&color=181717)
+![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&color=181717)
 
 
+## Stats
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xeallogo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xeallogo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
