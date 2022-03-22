@@ -55,3 +55,8 @@ const Alex = {
 ## Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xeallogo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+
+<a href="https://www.flaticon.com/free-icons/web-development" title="web development icons">Profile picture acquired from Flaticon.</a>
+
+
+
