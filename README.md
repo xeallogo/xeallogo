@@ -45,7 +45,7 @@ const Alex = {
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=grey&color=beige)
 
 ![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node&color=CB3837)
+![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node&color=44883e)
 ![](https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=mongoose&color=92630B)
 ![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&color=181717)
