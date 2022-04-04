@@ -15,8 +15,8 @@ const Alex = {
   jobTitle: "Software Engineer",
   education: "Western Governors University",
   skills: {
-    frontend: ["JavaScript", "React", "HTML5", "CSS3", "Git"],
-    backend: ["Python", "Node.js"],
+    frontend: ["JavaScript", "React", "HTML5", "CSS3"],
+    backend: ["Python", "Node.js", "Git"],
     database: ["MongoDB", "MySQL"]
   },
   hobbies: ["cooking", "videogames", "art", "reading", "languages"],
