@@ -1,11 +1,7 @@
 ![Banner_AG](https://user-images.githubusercontent.com/81936956/159326305-b9b653ed-2bf2-4a2d-83bf-78e01f49a9e0.png)
-# I'm Alex, a developer. 
+# I'm Alex, a software engineer. 
 
 <a href="https://www.linkedin.com/in/alex-gool/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
-Glad to see you here! 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xeallogo.xeallogo&left_color=green&right_color=red)
 
 
 ## About me
@@ -25,8 +21,7 @@ const Alex = {
 ```
 
 ## Tech Stack
-
-
+![](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
