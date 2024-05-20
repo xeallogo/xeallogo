@@ -5,7 +5,7 @@
 
 
 Glad to see you here! 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xeallogo.xeallogo&left_color=green&right_color=red)
 
 
 ## About me
@@ -15,25 +15,26 @@ const Alex = {
   jobTitle: "Software Engineer",
   education: "Western Governors University",
   skills: {
-    frontend: ["JavaScript", "React", "HTML5", "CSS3"],
-    backend: ["Python", "Node.js", "Git"],
+    frontend: ["TypeScript", "JavaScript", "React", "HTML/CSS"],
+    backend: ["Node", "Python", "Git"],
     database: ["MongoDB", "MySQL"]
   },
   hobbies: ["cooking", "videogames", "art", "reading", "languages"],
-  funFact: "I'm an avid foodie and love to cook."
+  funFact: "I can operate a forklift."
 };
 ```
 
 ## Tech Stack
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=black&color=61DAFB)
 ![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=black&color=66D15F)
 
-![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=7952B3)
+![](https://img.shields.io/badge/AntDesign-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=22B4E7)
 
 ![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&color=lightgreen)
@@ -42,15 +43,7 @@ const Alex = {
 ![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node&color=44883e)
 ![](https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=mongoose&color=92630B)
-![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&color=181717)
-
-
-## Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xeallogo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-
-<a href="https://www.flaticon.com/free-icons/web-development" title="web development icons">Profile picture acquired from Flaticon.</a>
 
 
 
